@@ -3,6 +3,28 @@ from tkinter import ttk
 import event_states
 #from event_states import event
 #from event_states import state
+asdfasd
+
+
+
+
+2
+
+2
+
+2
+2
+
+2
+
+2
+2
+22
+2
+2
+
+2
+
 
 
 window = tk.Tk()
