@@ -33,7 +33,6 @@ window.geometry("500x500")
 test_descriptions = [["Car is ready", "Car is moving", "Car is finished"],
                         ["Car is not turning", "Car is turning left", "Car is turning right"],
                         ["Car is not avoiding", "Car is avoiding left car", "Car is avoiding right car"],
-                        ["Car is not chasing", "Car is chasing"],
                         ["Normal course", "Shortcut Course"]]
 
 event_descriptions = [["Red Light","Green Light"],
