@@ -1,9 +1,30 @@
 import tkinter as tk
 from tkinter import ttk
 import event_states
-#from event_states import event
-#from event_states import state
 
+1111
+
+1
+
+1
+
+1
+1
+1
+1
+
+1
+1
+1
+1
+11
+
+1
+1
+1
+1
+
+1
 
 window = tk.Tk()
 window.title("event_states")
